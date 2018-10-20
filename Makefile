@@ -17,4 +17,4 @@ resturant.o: resturant.cpp resturant.h hours.h employee.h #where should i put th
 
 
 clean:
-	rm *.o output employee.h.gch
+	rm *.o output *.h.gch
